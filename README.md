@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mehmet%20Cengiz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%26%20Teknoloji%20Tutkunu&descAlignY=55&descAlign=60" alt="Mehmet Cengiz Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Mehmet%20Cengiz&fontSize=80&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%26%20Teknoloji%20Tutkunu&descAlignY=55&descAlign=60" alt="Mehmet Cengiz Header" width="100%" />
 
   <br />
 
   <a href="https://github.com/Mehmetcengiz16">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Mobil+Uygulama+Geli%C5%9Ftirici;Full+Stack+Web+Developer;Bar%C4%B1nd%C4%B1rma+Otomasyon+Uzman%C4%B1;Flutter+%26+PHP+Tutkunu;WEBZE+%26+Riosting+Kurucusu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Mobil+Uygulama+Geli%C5%9Ftirici;Full+Stack+Web+Developer;Bar%C4%B1nd%C4%B1rma+Otomasyon+Uzman%C4%B1;Flutter+%26+PHP+Tutkunu;WEBZE+%26+Riosting+Kurucusu" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -42,7 +42,7 @@
 <!-- 3D Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mehmetcengiz16&theme=tokyonight" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mehmetcengiz16&theme=flat&no-frame=true&margin-w=4" alt="Trophies" />
   </a>
 </div>
 
@@ -72,7 +72,7 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehmetcengiz16&theme=tokyonight&hide_border=true&background=0d1117&locale=tr" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mehmetcengiz16&theme=tokyonight&hide_border=true&background=0d1117&locale=tr" alt="GitHub Streak" />
 </div>
 
 <br/>
