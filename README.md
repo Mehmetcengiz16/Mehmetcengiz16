@@ -40,10 +40,20 @@
 <br/>
 
 <!-- 3D Trophies -->
+<!-- Profile Summary & Custom Badges -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehmetcengiz16&theme=tokyonight&no-frame=true&t=1" alt="Trophies" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetcengiz16&theme=tokyonight" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetcengiz16&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+  
+  <br/>
+  <br/>
+
+  <!-- Custom Badge Strip -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-2ea44f?style=for-the-badge&logo=github" alt="Open to Collaborate"/>
+    <img src="https://img.shields.io/badge/Focus-Mobile_%26_Web-33CCFF?style=for-the-badge&logo=flutter" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Ask_Me_About-Flutter_|_PHP-F7DF1E?style=for-the-badge&logo=stackoverflow" alt="Ask Me"/>
+  </p>
 </div>
 
 <br/>
