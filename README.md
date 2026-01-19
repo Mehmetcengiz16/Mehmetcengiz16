@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mehmet%20Cengiz&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Mehmet Cengiz Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mehmet%20Cengiz&fontSize=80&animation=fadeIn&fontAlignY=35&t=1" alt="Mehmet Cengiz Header" width="100%" />
 
   <br />
 
   <a href="https://github.com/Mehmetcengiz16">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Mobil+Uygulama+Geli%C5%9Ftirici;Full+Stack+Web+Developer;Hosting+Otomasyon+Uzman%C4%B1;Flutter+%26+PHP+Tutkunu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Mobil+Uygulama+Geli%C5%9Ftirici;Full+Stack+Web+Developer;Hosting+Otomasyon+Uzman%C4%B1;Flutter+%26+PHP+Tutkunu&t=1" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -42,7 +42,7 @@
 <!-- 3D Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mehmetcengiz16&theme=tokyonight&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mehmetcengiz16&theme=tokyonight&no-frame=true&t=1" alt="Trophies" />
   </a>
 </div>
 
@@ -62,17 +62,17 @@
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mehmetcengiz16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&locale=tr" alt="Mehmet's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mehmetcengiz16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&locale=tr&t=1" alt="Mehmet's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetcengiz16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcengiz16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=tr&t=1" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehmetcengiz16&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcengiz16&theme=tokyonight&hide_border=true&background=0d1117&locale=tr&t=1" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -91,7 +91,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mehmetcengiz16&label=Profil%20Ziyaretçileri&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mehmetcengiz16&label=Profil%20Ziyaretçileri&color=blue&style=flat-square" alt="Profile Views" />
   </p>
   <p>coding with ❤️ by Mehmet Cengiz</p>
 </div>
