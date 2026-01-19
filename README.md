@@ -40,20 +40,9 @@
 <br/>
 
 <!-- 3D Trophies -->
-<!-- Profile Summary & Custom Badges -->
+<!-- Isometric Contribution Graph -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetcengiz16&theme=tokyonight" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehmetcengiz16&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-  
-  <br/>
-  <br/>
-
-  <!-- Custom Badge Strip -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-2ea44f?style=for-the-badge&logo=github" alt="Open to Collaborate"/>
-    <img src="https://img.shields.io/badge/Focus-Mobile_%26_Web-33CCFF?style=for-the-badge&logo=flutter" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Ask_Me_About-Flutter_|_PHP-F7DF1E?style=for-the-badge&logo=stackoverflow" alt="Ask Me"/>
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcengiz16&theme=tokyonight&hide_border=true&area=true&color=33CCFF" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
